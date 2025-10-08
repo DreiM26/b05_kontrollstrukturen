@@ -13,6 +13,8 @@ public class ForSchleife
          // und Initialisierung mit den STARTWERT 1.
          // 2.) Bedingung fuer den ENDWERT: i darf nur
          // kleiner oder gleich nach 20 sein (nicht groesser)
+         // 3.) Die SCHRITTEWEITE fuer das Hochzaehlen der
+         // Variablen i ist 1.
 
       for(int i = 1;i <= 20; i++)
       {
