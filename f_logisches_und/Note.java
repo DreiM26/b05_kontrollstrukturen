@@ -5,7 +5,7 @@ public class Note
 {
    public static void main(String [] args)
    {
-      int punkte = 69;
+      int punkte = 101;
 
       // Der logische Operator && verknuepft zwei Bedingungen
       // zu einer Gesambedingun. Diese ist genau dann TRUE,
